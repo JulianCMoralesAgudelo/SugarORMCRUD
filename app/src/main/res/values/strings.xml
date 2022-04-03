@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App_Grupo_40</string>
+    <string name="pantalla_inicial">Pantalla inicial</string>
+    <string name="vistaRegistro">TextView</string>
+</resources>
